@@ -1,8 +1,8 @@
-What is Document Object Model (DOM)
-The Document Object Model (DOM) is an application programming interface (API) for manipulating HTML documents.
+What is Document Object Model (DOM):
 
+The Document Object Model (DOM) is an application programming interface (API) for manipulating HTML documents.
 The DOM represents an HTML document as a tree of nodes. The DOM provides functions that allow you to add, remove, and modify parts of the document effectively.
-The DOM represents an HTML document as a hierarchy of nodes
+The DOM represents an HTML document as a hierarchy of nodes.
 
 <html>
     <head>
@@ -19,7 +19,8 @@ The following tree represents the above HTML document:
 In this DOM tree, the document is the root node. The root node has one child node which is the <html> element. The <html> element is called the document element.
 
 Each document can have only one document element. In an HTML document, the document element is the <html> element.
-Node Types
+Node Types:
+
 Each node in the DOM tree is identified by a node type.
 
 Constant Value Description
